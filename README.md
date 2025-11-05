@@ -24,12 +24,12 @@ If you use this code in your research, please cite our paper:
 **arXiv preprint**: https://arxiv.org/abs/2406.03061
 
 ## Author
-Shihori Koyama, Daisuke Inoue, Hiroaki Yoshida
-Toyota Central R&D Labs., Inc.
-shihori-koyama@mosk.tytlabs.co.jp
-Kazuyuki Aihara
-The University of Tokyo
-Gouhei Tanaka
+Shihori Koyama, Daisuke Inoue, Hiroaki Yoshida<br>
+Toyota Central R&D Labs., Inc.<br>
+shihori-koyama@mosk.tytlabs.co.jp<br>
+Kazuyuki Aihara<br>
+The University of Tokyo<br>
+Gouhei Tanaka<br>
 Nagoya Institute of Technology
 
 ## License
