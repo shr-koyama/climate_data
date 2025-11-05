@@ -21,7 +21,7 @@ Actual data and model prediction are plotted and NRMSE are printed.
 
 ## Citation
 If you use this code in your research, please cite our paper:
-**arXiv preprint**: https://arxiv.org/abs/2509.03839
+**arXiv preprint**: https://arxiv.org/abs/2406.03061
 
 ## Author
 Shihori Koyama, Daisuke Inoue, Hiroaki Yoshida
