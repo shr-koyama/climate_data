@@ -1,7 +1,8 @@
-# ESN implementation and Dataset for 'Assessing the predictability of meteorological variables via spatial correlations using echo state networks'
+# Echo State Network implementation and Datasets
 
 ## Overview
-This project implements time series data prediction using Echo State Network.
+ESN implementation and Datasets for 'Assessing the predictability of meteorological variables via spatial correlations using echo state networks'.
+This project implements time series data prediction using ESN.
 
 ## Data
 The time-series climate datasets used in our paper. The data is averaged over 1-degree grid of ``JRA-55 6-Hourly Model Resolution Land Surface Analysis Fields data''. The original data were obtained from NCAR's website https://rda.ucar.edu .
