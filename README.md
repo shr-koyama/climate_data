@@ -7,7 +7,7 @@ This project implements time series data prediction using ESN.
 ## Data
 The time-series climate datasets used in our paper. The data is averaged over 1-degree grid of ``JRA-55 6-Hourly Model Resolution Land Surface Analysis Fields data''. The original data were obtained from NCAR's website https://rda.ucar.edu .
 The file name structure is following:
-data/[yyyy]/[city]/[kind]/[kind]_lat[uu]_lon[vv]　_[yyyy].csv
+`data/[yyyy]/[city]/[kind]/[kind]_lat[uu]_lon[vv]_[yyyy].csv`
 - [yyyy]: year of data
 - [city]: the name of target city
 - [kind]: kind of climatic quantity to predict
