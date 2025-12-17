@@ -5,7 +5,7 @@ ESN implementation and Datasets for 'Assessing the predictability of meteorologi
 This project implements time series data prediction using ESN.
 
 ## Data
-The time-series climate datasets used in our paper. The data is averaged over 1-degree grid of ``JRA-55 6-Hourly Model Resolution Land Surface Analysis Fields data''. The original data were obtained from NCAR's website https://rda.ucar.edu .
+The time-series climate datasets used in our paper. These data are averaged over 1-degree grid of ``JRA-55 6-Hourly Model Resolution Land Surface Analysis Fields data''. The original data were obtained from NCAR's website https://rda.ucar.edu .
 The file name structure is following:
 `data/[yyyy]/[city]/[kind]/[kind]_lat[uu]_lon[vv]_[yyyy].csv`
 - [yyyy]: year of data
@@ -18,7 +18,9 @@ The file name structure is following:
 - `prediction.ipynb` is a demonstration of ESN prediction for temperature data. 
 For three different observed data in the latitudinal direction. 
 Actual data and model prediction are plotted and NRMSE are printed.
-- `esn_dts.py` is the python code to use ESN model in `prediction.ipynb`.
+- To run `prediction.ipynb`, you need to import `esn_dts.py`. Please get `esn_dts_openloop.py` from [**here**](https://github.com/GTANAKA-LAB/DTS-ESN/blob/main/1step_ahead_prediction/esn_dts_openloop.py)
+  and rename `esn_dts_openloop.py` to `esn_dts.py`.
+<!-- - `esn_dts.py` is the python code to use ESN model in `prediction.ipynb`.-->
 
 ## Citation
 If you use this code in your research, please cite our paper:
