@@ -1,4 +1,4 @@
-# Echo State Network implementation and Datasets for climatic time series data
+# Echo State Network implementation and Datasets for climatic time series data predictions
 
 ## Overview
 ESN implementation and Datasets for 'Assessing the predictability of meteorological variables via spatial correlations using echo state networks'.
